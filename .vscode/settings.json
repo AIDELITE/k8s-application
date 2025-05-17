@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///d%3A/localdisk_C/projects/k8s-app/webapp.yaml"
+    }
+}
